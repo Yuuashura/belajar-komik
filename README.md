@@ -1,3 +1,3 @@
 ### WELCOME MAMANK
 
-<a href="/home/"> klik Ini </a>
+<a href="https://yuuashura.github.io/belajar-komik/Home"> klik Ini </a>
