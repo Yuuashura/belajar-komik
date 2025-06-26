@@ -79,7 +79,7 @@ header {
     padding: 10px 10px;
     border-radius: 4px;
     color: white;
-    background-color: transparent; /* Membuatnya transparan */
+    background-color: transparent;
 }
 
 .cari input::placeholder {
